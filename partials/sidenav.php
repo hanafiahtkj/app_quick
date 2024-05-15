@@ -89,55 +89,49 @@
                 </div>
             </li>
 
-            <li class="menu-title">Apps</li>
+            <li class="menu-title">Master Data</li>
 
             <li class="menu-item">
-                <a href="#menuTables" data-bs-toggle="collapse" class="menu-link">
-                    <span class="menu-icon"><i data-feather="grid"></i></span>
-                    <span class="menu-text"> Master Data </span>
-                    <span class="menu-arrow"></span>
+                <a href="tables-datatables.php" class="menu-link">
+                    <span class="menu-icon"><i data-feather="calendar"></i></span>
+                    <span class="menu-text"> Data Paslon  </span>
                 </a>
-                <div class="collapse" id="menuTables">
-                    <ul class="sub-menu">
-
-                        <li class="menu-item">
-                            <a href="tables-datatables.php" class="menu-link">
-                                <span class="menu-text">Data Paslon</span>
-                            </a>
-                        </li>
-                       
-                        <li class="menu-item">
-                            <a href="tables-datatables.php" class="menu-link">
-                                <span class="menu-text">Data TPS</span>
-                            </a>
-                        </li>
-
-                        <li class="menu-item">
-                            <a href="tables-datatables.php" class="menu-link">
-                                <span class="menu-text">Data Saksi</span>
-                            </a>
-                        </li>
-
-                        <li class="menu-item">
-                            <a href="tables-datatables.php" class="menu-link">
-                                <span class="menu-text">Data Kelurahan</span>
-                            </a>
-                        </li>
-
-                        <li class="menu-item">
-                            <a href="tables-datatables.php" class="menu-link">
-                                <span class="menu-text">Data Kecamatan</span>
-                            </a>
-                        </li>
-                
-                    </ul>
-                </div>
             </li>
 
             <li class="menu-item">
+                <a href="tables-datatables.php" class="menu-link">
+                    <span class="menu-icon"><i data-feather="calendar"></i></span>
+                    <span class="menu-text"> Data TPS  </span>
+                </a>
+            </li>
+
+            <li class="menu-item">
+                <a href="tables-datatables.php" class="menu-link">
+                    <span class="menu-icon"><i data-feather="calendar"></i></span>
+                    <span class="menu-text"> Data Saksi  </span>
+                </a>
+            </li>
+
+            <li class="menu-item">
+                <a href="tables-datatables.php" class="menu-link">
+                    <span class="menu-icon"><i data-feather="calendar"></i></span>
+                    <span class="menu-text"> Data Kelurahan  </span>
+                </a>
+            </li>
+
+            <li class="menu-item">
+                <a href="tables-datatables.php" class="menu-link">
+                    <span class="menu-icon"><i data-feather="calendar"></i></span>
+                    <span class="menu-text"> Data Kecamatan  </span>
+                </a>
+            </li>
+
+            <li class="menu-title">Sistem</li>
+
+            <li class="menu-item">
                 <a href="#menuTables" data-bs-toggle="collapse" class="menu-link">
                     <span class="menu-icon"><i data-feather="grid"></i></span>
-                    <span class="menu-text"> User Admin </span>
+                    <span class="menu-text"> Pengaturan </span>
                     <span class="menu-arrow"></span>
                 </a>
                 <div class="collapse" id="menuTables">
