@@ -57,7 +57,7 @@
                     
                                         <a href="index.php" class="logo logo-light text-center">
                                             <span class="logo-lg">
-                                                <img src="assets/images/logo-light.png" alt="" height="22">
+                                                <img src="assets/images/golkar.png" alt="" height="22">
                                             </span>
                                         </a>
                                     </div>
