@@ -8,7 +8,7 @@
                 <!-- Brand Logo Light -->
                 <a href="index.php" class="logo-light">
                     <img src="assets/images/logo-light.png" alt="logo" class="logo-lg">
-                    <img src="assets/images/logo-sm.png" alt="small logo" class="logo-sm">
+                    <img src="assets/images/golkar.png" alt="small logo" class="logo-sm" style="height:35px;">
                 </a>
 
                 <!-- Brand Logo Dark -->
