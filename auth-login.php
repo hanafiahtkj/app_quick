@@ -51,13 +51,13 @@
                                     <div class="auth-brand">
                                         <a href="index.php" class="logo logo-dark text-center">
                                             <span class="logo-lg">
-                                                <img src="assets/images/golkar.png" alt="" height="22">
+                                                <img src="assets/images/golkar.png" alt="" height="60">
                                             </span>
                                         </a>
                     
                                         <a href="index.php" class="logo logo-light text-center">
                                             <span class="logo-lg">
-                                                <img src="assets/images/golkar.png" alt="" height="22">
+                                                <img src="assets/images/golkar.png" alt="" height="60">
                                             </span>
                                         </a>
                                     </div>
