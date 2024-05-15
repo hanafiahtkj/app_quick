@@ -54,7 +54,7 @@
             <!-- User Dropdown -->
             <li class="dropdown">
                 <a class="nav-link dropdown-toggle nav-user me-0 waves-effect waves-light" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
-                    <img src="assets/images/users/user-1.jpg" alt="user-image" class="rounded-circle">
+                    <img src="assets/images/users/user-2.jpg" alt="user-image" class="rounded-circle">
                     <span class="ms-1 d-none d-md-inline-block">
                         Geneva <i class="mdi mdi-chevron-down"></i>
                     </span>

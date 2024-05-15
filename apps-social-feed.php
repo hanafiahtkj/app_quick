@@ -51,7 +51,7 @@ include 'partials/page-title.php'; ?>
                                         </div>
 
                                         <div class="d-flex align-items-start">
-                                            <img class="d-flex align-items-start rounded me-2" src="assets/images/users/user-1.jpg" alt="Dominic Keller" height="48">
+                                            <img class="d-flex align-items-start rounded me-2" src="assets/images/users/user-2.jpg" alt="Dominic Keller" height="48">
                                             <div class="w-100 ps-1">
                                                 <h5 class="mt-1 mb-0">Geneva McKnight</h5>
                                                 <p class="mb-1 mt-1 text-muted">California, USA</p>
@@ -225,7 +225,7 @@ include 'partials/page-title.php'; ?>
                                         </div>
     
                                         <div class="d-flex align-items-start mt-3">
-                                            <img src="assets/images/users/user-1.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark">
+                                            <img src="assets/images/users/user-2.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark">
                                             <div class="w-100">
                                                 <input type="text" class="form-control form-control-light border-0 form-control-sm" placeholder="Write a comment">
                                             </div> <!-- end medi-body -->
@@ -294,7 +294,7 @@ include 'partials/page-title.php'; ?>
     
                                             <div class="d-flex align-items-start mt-2">
                                                 <a class="pe-2" href="#">
-                                                    <img src="assets/images/users/user-1.jpg" class="rounded-circle"
+                                                    <img src="assets/images/users/user-2.jpg" class="rounded-circle"
                                                         alt="Generic placeholder image" height="31">
                                                 </a>
                                                 <div class="w-100">
@@ -339,7 +339,7 @@ include 'partials/page-title.php'; ?>
                                         </div>
     
                                         <div class="d-flex align-items-start mt-2">
-                                            <img src="assets/images/users/user-1.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark">
+                                            <img src="assets/images/users/user-2.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark">
                                             <div class="w-100">
                                                 <input type="text" class="form-control form-control-light border-0 form-control-sm" placeholder="Write a comment">
                                             </div> <!-- end medi-body -->

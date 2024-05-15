@@ -95,7 +95,7 @@ include 'partials/page-title.php'; ?>
                                         <!-- Team-->
                                         <div class="avatar-group mb-3" id="tooltips-container">
                                             <a href="javascript: void(0);" class="avatar-group-item">
-                                                <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Mat Helme" />
+                                                <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Mat Helme" />
                                             </a>
     
                                             <a href="javascript: void(0);" class="avatar-group-item">
@@ -227,7 +227,7 @@ include 'partials/page-title.php'; ?>
                                             </a>
     
                                             <a href="javascript: void(0);" class="avatar-group-item">
-                                                <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container2" data-bs-toggle="tooltip" data-bs-placement="bottom" title="James Anderson" />
+                                                <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container2" data-bs-toggle="tooltip" data-bs-placement="bottom" title="James Anderson" />
                                             </a>
     
                                             <a href="javascript: void(0);" class="avatar-group-item">
@@ -354,7 +354,7 @@ include 'partials/page-title.php'; ?>
                                             </a>
     
                                             <a href="javascript: void(0);" class="avatar-group-item">
-                                                <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container4" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Mat Helme" />
+                                                <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-sm" alt="friend" data-bs-container="#tooltips-container4" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Mat Helme" />
                                             </a>
                                         </div>
                                         <!-- Progress-->

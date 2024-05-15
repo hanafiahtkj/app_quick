@@ -92,7 +92,7 @@ include 'partials/page-title.php'; ?>
     
                                                         <div class="search-item">
                                                             <div class="d-flex align-items-start">
-                                                                <img class="d-flex me-3 rounded-circle" src="assets/images/users/user-1.jpg" alt="Generic placeholder image" height="54">
+                                                                <img class="d-flex me-3 rounded-circle" src="assets/images/users/user-2.jpg" alt="Generic placeholder image" height="54">
                                                                 <div class="w-100">
                                                                     <h5 class="mt-0">
                                                                         <a href="#" class="text-dark">Chadengle</a>
@@ -195,7 +195,7 @@ include 'partials/page-title.php'; ?>
                                             <div class="tab-pane" id="users">
                                                 <div class="search-item">
                                                     <div class="d-flex align-items-start">
-                                                        <img class="d-flex me-3 rounded-circle" src="assets/images/users/user-1.jpg" alt="Generic placeholder image" height="54">
+                                                        <img class="d-flex me-3 rounded-circle" src="assets/images/users/user-2.jpg" alt="Generic placeholder image" height="54">
                                                         <div class="w-100">
                                                             <h5 class="mt-0">
                                                                 <a href="#" class="text-dark">Halette Boivin</a>

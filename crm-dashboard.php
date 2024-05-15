@@ -309,7 +309,7 @@ include 'partials/page-title.php'; ?>
                                         </div>
 
                                         <div class="d-flex align-items-start mt-3">
-                                            <img class="me-3 rounded-circle" src="assets/images/users/user-1.jpg" width="40" alt="Generic placeholder image">
+                                            <img class="me-3 rounded-circle" src="assets/images/users/user-2.jpg" width="40" alt="Generic placeholder image">
                                             <div class="w-100">
                                                 <span class="badge badge-soft-warning float-end">Cold lead</span>
                                                 <h5 class="mt-0 mb-1">Timothy Kauper</h5>

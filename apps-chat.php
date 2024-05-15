@@ -40,7 +40,7 @@ include 'partials/page-title.php'; ?>
                                     <div class="card-body">
 
                                         <div class="d-flex align-items-start mb-3">
-                                            <img src="assets/images/users/user-1.jpg" class="me-2 rounded-circle" height="42" alt="Brandon Smith">
+                                            <img src="assets/images/users/user-2.jpg" class="me-2 rounded-circle" height="42" alt="Brandon Smith">
                                             <div class="w-100">
                                                 <h5 class="mt-0 mb-0 font-15">
                                                     <a href="contacts-profile.php" class="text-reset">Geneva McKnight</a>
@@ -278,7 +278,7 @@ include 'partials/page-title.php'; ?>
                                             </li>
                                             <li class="clearfix odd">
                                                 <div class="chat-avatar">
-                                                    <img src="assets/images/users/user-1.jpg" class="rounded" alt="Geneva M" />
+                                                    <img src="assets/images/users/user-2.jpg" class="rounded" alt="Geneva M" />
                                                     <i>10:01</i>
                                                 </div>
                                                 <div class="conversation-text">
@@ -324,7 +324,7 @@ include 'partials/page-title.php'; ?>
                                             </li>
                                             <li class="clearfix odd">
                                                 <div class="chat-avatar">
-                                                    <img src="assets/images/users/user-1.jpg" class="rounded" alt="Geneva M" />
+                                                    <img src="assets/images/users/user-2.jpg" class="rounded" alt="Geneva M" />
                                                     <i>10:02</i>
                                                 </div>
                                                 <div class="conversation-text">
@@ -370,7 +370,7 @@ include 'partials/page-title.php'; ?>
                                             </li>
                                             <li class="clearfix odd">
                                                 <div class="chat-avatar">
-                                                    <img src="assets/images/users/user-1.jpg" alt="Geneva M" class="rounded" />
+                                                    <img src="assets/images/users/user-2.jpg" alt="Geneva M" class="rounded" />
                                                     <i>10:03</i>
                                                 </div>
                                                 <div class="conversation-text">
@@ -439,7 +439,7 @@ include 'partials/page-title.php'; ?>
                                             </li>
                                             <li class="clearfix odd">
                                                 <div class="chat-avatar">
-                                                    <img src="assets/images/users/user-1.jpg" alt="Geneva M" class="rounded" />
+                                                    <img src="assets/images/users/user-2.jpg" alt="Geneva M" class="rounded" />
                                                     <i>10:05</i>
                                                 </div>
                                                 <div class="conversation-text">

@@ -610,7 +610,7 @@ include 'partials/page-title.php'; ?>
                                                     </li>
                                                     <li class="clearfix odd">
                                                         <div class="chat-avatar">
-                                                            <img src="assets/images/users/user-1.jpg" alt="Female">
+                                                            <img src="assets/images/users/user-2.jpg" alt="Female">
                                                             <i>10:01</i>
                                                         </div>
                                                         <div class="conversation-text">
@@ -638,7 +638,7 @@ include 'partials/page-title.php'; ?>
                                                     </li>
                                                     <li class="clearfix odd">
                                                         <div class="chat-avatar">
-                                                            <img src="assets/images/users/user-1.jpg" alt="male">
+                                                            <img src="assets/images/users/user-2.jpg" alt="male">
                                                             <i>10:02</i>
                                                         </div>
                                                         <div class="conversation-text">

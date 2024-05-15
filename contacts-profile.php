@@ -39,7 +39,7 @@
                         <div class="col-lg-4 col-xl-4">
                             <div class="card text-center">
                                 <div class="card-body">
-                                    <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-lg img-thumbnail" alt="profile-image">
+                                    <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-lg img-thumbnail" alt="profile-image">
 
                                     <h4 class="mb-0">Geneva McKnight</h4>
                                     <p class="text-muted">@webdesigner</p>
@@ -351,7 +351,7 @@
 
                                                     <div class="d-flex align-items-start mt-2">
                                                         <a class="pe-2" href="#">
-                                                            <img src="assets/images/users/user-1.jpg" class="rounded-circle" alt="Generic placeholder image" height="31">
+                                                            <img src="assets/images/users/user-2.jpg" class="rounded-circle" alt="Generic placeholder image" height="31">
                                                         </a>
                                                         <div class="w-100">
                                                             <input type="text" id="simpleinput" class="form-control border-0 form-control-sm" placeholder="Add comment">

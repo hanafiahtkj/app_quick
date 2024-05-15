@@ -250,7 +250,7 @@
                                                         <td id="tooltips-container">
                                                             <div class="avatar-group">
                                                                 <a href="javascript: void(0);" class="avatar-group-item">
-                                                                    <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend" data-bs-container="#tooltips-container" data-bs-toggle="tooltip" data-bs-placement="top" title="Mat Helme">
+                                                                    <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend" data-bs-container="#tooltips-container" data-bs-toggle="tooltip" data-bs-placement="top" title="Mat Helme">
                                                                 </a>
 
                                                                 <a href="javascript: void(0);" class="avatar-group-item">
@@ -329,7 +329,7 @@
                                                                 </a>
 
                                                                 <a href="javascript: void(0);" class="avatar-group-item">
-                                                                    <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend" data-bs-container="#tooltips-container3" data-bs-toggle="tooltip" data-bs-placement="top" title="James Anderson">
+                                                                    <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend" data-bs-container="#tooltips-container3" data-bs-toggle="tooltip" data-bs-placement="top" title="James Anderson">
                                                                 </a>
                                                             </div>
                                                         </td>

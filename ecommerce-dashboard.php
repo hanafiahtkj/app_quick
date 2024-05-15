@@ -259,7 +259,7 @@ include 'partials/page-title.php'; ?>
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            <img src="assets/images/users/user-1.jpg" alt="user-pic" class="rounded-circle avatar-sm bx-shadow-lg" />
+                                                            <img src="assets/images/users/user-2.jpg" alt="user-pic" class="rounded-circle avatar-sm bx-shadow-lg" />
                                                             <span class="ms-2">James A. Wert</span>
                                                         </td>
                                                         <td>

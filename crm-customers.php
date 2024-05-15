@@ -176,7 +176,7 @@ include 'partials/page-title.php'; ?>
                                                             </div>
                                                         </td>
                                                         <td class="table-user">
-                                                            <img src="assets/images/users/user-1.jpg" alt="table-user" class="me-2 rounded-circle">
+                                                            <img src="assets/images/users/user-2.jpg" alt="table-user" class="me-2 rounded-circle">
                                                             <a href="javascript:void(0);" class="text-body fw-semibold">Timothy Kauper</a>
                                                         </td>
                                                         <td>
@@ -400,7 +400,7 @@ include 'partials/page-title.php'; ?>
                                                             </div>
                                                         </td>
                                                         <td class="table-user">
-                                                            <img src="assets/images/users/user-1.jpg" alt="table-user" class="me-2 rounded-circle">
+                                                            <img src="assets/images/users/user-2.jpg" alt="table-user" class="me-2 rounded-circle">
                                                             <a href="javascript:void(0);" class="text-body fw-semibold">Labeeb Ghali</a>
                                                         </td>
                                                         <td>

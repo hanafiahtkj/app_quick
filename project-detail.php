@@ -282,7 +282,7 @@ include 'partials/page-title.php'; ?>
     
                                             <div class="d-flex align-items-start mt-3">
                                                 <a class="pe-2" href="#">
-                                                    <img src="assets/images/users/user-1.jpg" class="rounded-circle"
+                                                    <img src="assets/images/users/user-2.jpg" class="rounded-circle"
                                                         alt="Generic placeholder image" height="31">
                                                 </a>
                                                 <div class="w-100">

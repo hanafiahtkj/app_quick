@@ -221,7 +221,7 @@ include 'partials/page-title.php'; ?>
                                                     <div class="card border rounded">
                                                         <div class="card-body">
                                                             <div class="d-flex align-itames-start">
-                                                                <img src="assets/images/users/user-1.jpg" alt="image" class="me-3 d-none d-sm-block avatar-sm rounded-circle">
+                                                                <img src="assets/images/users/user-2.jpg" alt="image" class="me-3 d-none d-sm-block avatar-sm rounded-circle">
                                                                 <div class="w-100">
                                                                     <h5 class="mb-1 mt-0">Louis K. Bond</h5>
                                                                     <p> Founder & CEO </p>

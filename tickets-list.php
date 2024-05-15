@@ -356,7 +356,7 @@ include 'partials/page-title.php'; ?>
         
                                                     <td>
                                                         <a href="javascript: void(0);">
-                                                            <img src="assets/images/users/user-1.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-xs" />
+                                                            <img src="assets/images/users/user-2.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-xs" />
                                                         </a>
                                                     </td>
         

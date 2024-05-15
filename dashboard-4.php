@@ -254,7 +254,7 @@ include 'partials/page-title.php'; ?>
                                                             <td id="tooltip-container">
                                                                 <div class="avatar-group">
                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="top" title="Mat Helme">
-                                                                        <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend">
+                                                                        <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                                     </a>
                             
                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="top" title="Michael Zenaty">
@@ -333,7 +333,7 @@ include 'partials/page-title.php'; ?>
                                                                     </a>
                             
                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-toggle="tooltip" data-bs-placement="top" title="James Anderson">
-                                                                        <img src="assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend">
+                                                                        <img src="assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                                     </a>
                                                                 </div>
                                                             </td>

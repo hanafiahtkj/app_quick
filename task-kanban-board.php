@@ -70,7 +70,7 @@ include 'partials/page-title.php'; ?>
                                                     <div class="col-auto">
                                                         <div class="text-end">
                                                             <a href="javascript: void(0);" class="text-muted">
-                                                                <img src="assets/images/users/user-1.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
+                                                                <img src="assets/images/users/user-2.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
                                                             </a> 
                                                             <a href="javascript: void(0);" class="text-muted">
                                                                 <img src="assets/images/users/user-3.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
@@ -233,7 +233,7 @@ include 'partials/page-title.php'; ?>
                                                     <div class="col-auto">
                                                         <div class="text-end">
                                                             <a href="javascript: void(0);" class="text-muted">
-                                                                <img src="assets/images/users/user-1.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
+                                                                <img src="assets/images/users/user-2.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
                                                             </a> 
                                                             <a href="javascript: void(0);" class="text-muted">
                                                                 <img src="assets/images/users/user-3.jpg" alt="task-user" class="avatar-sm img-thumbnail rounded-circle">
